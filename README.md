@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @americareyes
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning french
-- 💞️ I’m looking to collaborate on something in the future
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i like knitting
+Nombre del proyecto: "Análisis Exploratorio: Students Performance in Exams"
 
-<!---
-americareyes/americareyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Resumen breve del análisis: Existe una correlación positiva entre el desempeño en matemáticas y lectura, con ligeras diferencias por género. Las mujeres muestran un desempeño promedio más alto en general. Hay una fuerte relación entre las habilidades en lectura y matemáticas.
+
+Nombre y contacto: América Itzel Reyes Alatorre areyesalatorre@gmail.com
+
